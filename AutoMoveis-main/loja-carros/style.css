@@ -1,0 +1,58 @@
+body {
+  font-family: Arial;
+}
+
+div {
+  background-color: #111;
+  margin: 10px;
+  border-radius: 4px;
+  padding: 10px 300px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+span {
+  color: #febe01;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  padding: 5px;
+}
+
+button {
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  background-color: #febe01;
+}
+
+button:hover {
+  background-color: #332200;
+  color: white;
+}
+
+img {
+  width: 400px;
+  max-width: 100%;
+  display: block;  
+  margin: auto;
+  margin-top: 15px;
+
+}
+
+#LogoSite {
+  border-radius: 50%;
+  width: 150px;
+}
